@@ -1,0 +1,45 @@
+*{
+    margin:0 auto;
+    padding:0;
+
+}
+body{
+    width:100%;
+  
+}
+#main-index{
+    margin-top:2em;
+}
+#main-index h4{
+    color:#c23737;
+}
+main{
+    display: block;
+    width:100%;
+  padding-bottom:5em;
+}
+.forms{
+    display: flex;
+    flex-wrap: wrap;
+}
+form{
+    display:block;
+    max-width:250px;
+    margin:0 auto;
+}
+
+.form-div{
+    display:block;
+    max-width:250px;
+    margin:0 auto;
+
+}
+h2{
+    display: block;
+    text-align: center;
+    background-color: #2e303d;
+    color:white;
+}
+h4{
+    text-align: center;
+}
