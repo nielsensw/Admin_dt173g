@@ -1,7 +1,7 @@
 # Administrations-gränssnitt - DT173G
 ## Den andra delen för kursens projektuppgift: Administrations-gränssnitt.
 
-#### Publicerat resultat som dessa filer genererar kan hittas på länken: https://www.nielsensw.se/
+#### Publicerat resultat som dessa filer genererar kan hittas på länken: nielsensw.se/dt173gadmin/index
 
 ##### I Classes-mappen finns PHP-klass för inloggning.
 ##### I config-mappen finns login-koppling och automatisk koppling för klasser.
